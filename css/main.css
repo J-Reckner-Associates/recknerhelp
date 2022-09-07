@@ -1,0 +1,51 @@
+body{
+    font-family:arial;
+    font-size:10pt;
+    background:#A0A0A0;
+}
+a{
+    color:blue;
+}
+a.visted{
+    color:blue;
+}
+
+#container{
+    background:#82B4D5;
+    width:85%;
+}
+#head{
+    background:#FFFFFF;
+    padding:10px;
+    font-size:12pt;
+    color:#000000;
+    text-align:left;
+}
+#main{
+    background:#FFFFFF;
+    padding:25px;
+    border-top:2px solid #C5D632;
+    border-bottom:2px solid #C5D632;
+    text-align:left;
+}
+#foot{
+    background:#82B4D5;
+    padding:2px;
+    text-align:center;
+    font-size:8pt;
+    color:#FFFFFF;
+}
+.faqlink{
+    cursor:pointer;
+    color:#000000;
+}
+.faqitem{
+    display:none;
+}   
+.hr1{
+    background-color:#FFFFFF;
+    border:1px solid #000000;
+    height:1px;
+    margin:1px 0;
+    width:450px;
+}
